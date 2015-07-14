@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64153BBD-AFF2-49D4-9C04-57A3A6B9BD6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jholman</RootNamespace>
+    <AssemblyName>Jholman</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\..\..\..\..\..\..\..\Componentes Graficos Vb2\SKIN NET 2010 WIN 7\SkinVS.NET\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.3.5\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cargos.Designer.cs">
+      <DependentUpon>cargos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cliente.Designer.cs">
+      <DependentUpon>cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compra.Designer.cs">
+      <DependentUpon>compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cotizacion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cotizacion2.Designer.cs">
+      <DependentUpon>cotizacion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empleado.Designer.cs">
+      <DependentUpon>empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="materia prima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="materia prima.Designer.cs">
+      <DependentUpon>materia prima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pedido.Designer.cs">
+      <DependentUpon>pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="presentacion.Designer.cs">
+      <DependentUpon>presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="produccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="produccion.Designer.cs">
+      <DependentUpon>produccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productoe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productoe.Designer.cs">
+      <DependentUpon>productoe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productoterminado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productoterminado.Designer.cs">
+      <DependentUpon>productoterminado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="cotizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cotizacion.Designer.cs">
+      <DependentUpon>cotizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tipo_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tipo_producto.Designer.cs">
+      <DependentUpon>tipo_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proveedor.Designer.cs">
+      <DependentUpon>proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insumo.Designer.cs">
+      <DependentUpon>insumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recuperarcontraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recuperarcontraseña.Designer.cs">
+      <DependentUpon>recuperarcontraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes.Designer.cs">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usuario.Designer.cs">
+      <DependentUpon>usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validar.cs" />
+    <EmbeddedResource Include="cargos.resx">
+      <DependentUpon>cargos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cliente.resx">
+      <DependentUpon>cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="compra.resx">
+      <DependentUpon>compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cotizacion2.resx">
+      <DependentUpon>cotizacion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empleado.resx">
+      <DependentUpon>empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="materia prima.resx">
+      <DependentUpon>materia prima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pedido.resx">
+      <DependentUpon>pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="presentacion.resx">
+      <DependentUpon>presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="produccion.resx">
+      <DependentUpon>produccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productoe.resx">
+      <DependentUpon>productoe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productoterminado.resx">
+      <DependentUpon>productoterminado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cotizacion.resx">
+      <DependentUpon>cotizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tipo_producto.resx">
+      <DependentUpon>tipo_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proveedor.resx">
+      <DependentUpon>proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insumo.resx">
+      <DependentUpon>insumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recuperarcontraseña.resx">
+      <DependentUpon>recuperarcontraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes.resx">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usuario.resx">
+      <DependentUpon>usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\controller\Controller.csproj">
+      <Project>{777c0bbb-6b15-424e-af21-1f87ef10d04d}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\entity\Entity.csproj">
+      <Project>{6c13c73e-484a-4719-b78c-1af6012b5447}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\model\Model.csproj">
+      <Project>{9f3d95d9-d257-461f-b4fd-cbf1645b223e}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

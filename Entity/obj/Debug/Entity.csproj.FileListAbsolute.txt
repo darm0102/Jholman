@@ -1,0 +1,31 @@
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Jholman\entity\bin\Debug\entity.dll
+C:\Users\Aprendiz\Desktop\Jholman\entity\bin\Debug\entity.pdb
+C:\Users\Aprendiz\Desktop\Jholman\entity\obj\Debug\entity.dll
+C:\Users\Aprendiz\Desktop\Jholman\entity\obj\Debug\entity.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\bin\Debug\entity.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\entity\obj\Debug\entity.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\entity\bin\Debug\entity.dll
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\entity\bin\Debug\entity.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\entity\obj\Debug\entity.dll
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\entity\obj\Debug\entity.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\entity\bin\Debug\entity.dll
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\entity\bin\Debug\entity.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\entity\obj\Debug\entity.dll
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\entity\obj\Debug\entity.pdb

@@ -1,0 +1,721 @@
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\bin\Debug\Jholman.exe.config
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\bin\Debug\Jholman.exe
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\bin\Debug\Jholman.pdb
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.exe
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.pdb
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+c:\users\rua monsalve\documents\visual studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.Login.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.tela_decorativa.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\RUA MONSALVE\Documents\Visual Studio 2012\Projects\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.login.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+E:\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\Jholman\Jholman\obj\Debug\Jholman.pdb
+E:\Jholman\Jholman\bin\Debug\Jholman.exe
+E:\Jholman\Jholman\bin\Debug\Jholman.pdb
+E:\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+E:\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.login.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+E:\DANIEL\SENA\TRIMESTRE 4\Diseño\Proyecto JHOLMAN\Diseño Version 1 (JHOLMAN)\Vistas\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\DANIEL\SENA\TRIMESTRE 4\Diseño\Proyecto JHOLMAN\Diseño Version 1 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\DANIEL\SENA\TRIMESTRE 4\Diseño\Proyecto JHOLMAN\Diseño Version 1 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\bin\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\bin\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cliente3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.login.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.patas2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.patas3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.tela2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.tela3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.teladecorativa.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.teladecorativa2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.teladecorativa3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+C:\Users\RUA MONSALVE\Desktop\Diseño Version 2 (JHOLMAN)\Vistas\Jholman\Jholman\obj\Debug\Jholman.ConsultarCliente.resources
+E:\C# & MySQL\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\C# & MySQL\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\C# & MySQL\Jholman\Jholman\obj\Debug\Jholman.pdb
+E:\trimestre 5\C# proyecto\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.pdb
+E:\trimestre 5\C# proyecto\Jholman\Jholman\bin\Debug\Jholman.exe
+E:\trimestre 5\C# proyecto\Jholman\Jholman\bin\Debug\Jholman.pdb
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cliente3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.ConsultarCliente.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.login.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.patas2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.patas3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.tela2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.tela3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.teladecorativa.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.teladecorativa2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.teladecorativa3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+E:\trimestre 5\C# proyecto\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+C:\Users\diego restrepo\Documents\Visual Studio 2013\Projects\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\diego restrepo\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\diego restrepo\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cliente3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.ConsultarCliente.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.login.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.patas2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.patas3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.tela2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.tela3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.teladecorativa.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.teladecorativa2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.teladecorativa3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+C:\Users\diego\Documents\Visual Studio 2013\Projects\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cliente3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.ConsultarCliente.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.login.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.patas2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.patas3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.tela2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.tela3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.teladecorativa.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.teladecorativa2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.teladecorativa3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\Jholman.exe
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\Jholman.pdb
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\controller.dll
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\entity.dll
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\model.dll
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\controller.pdb
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\entity.pdb
+C:\Users\Aprendiz\Desktop\Jholman\Jholman\bin\Debug\model.pdb
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.pdb
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\Jholman.exe
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\Jholman.pdb
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\controller.dll
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\entity.dll
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\model.dll
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\controller.pdb
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\entity.pdb
+E:\Nueva carpeta\Jholman\Jholman\bin\Debug\model.pdb
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cliente3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.ConsultarCliente.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.inicio.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.login.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.patas.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.patas2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.patas3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.tela.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.tela2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.tela3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.teladecorativa.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.teladecorativa2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.teladecorativa3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+E:\Nueva carpeta\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.login.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.pdb
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+G:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+G:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+G:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.pdb
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.dll
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.dll
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.dll
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.pdb
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.pdb
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.pdb
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarcliente.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarempleado.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarusuario.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.login.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materiaprima2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materiaprima3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materiaprima4.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Proveedor.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario2.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario3.resources
+H:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.pdb
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.dll
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.dll
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.dll
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.pdb
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.pdb
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.pdb
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cargo.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarcargo.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarcliente.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarempleado.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.consultarusuario.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.login.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+D:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\IrisSkin2.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.dll
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\controller.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\entity.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\model.pdb
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.login.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+C:\Users\RUA MONSALVE\Desktop\2015-1\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\Jholman\Jholman\bin\Debug\controller.dll
+F:\Jholman\Jholman\bin\Debug\entity.dll
+F:\Jholman\Jholman\bin\Debug\model.dll
+F:\Jholman\Jholman\bin\Debug\controller.pdb
+F:\Jholman\Jholman\bin\Debug\entity.pdb
+F:\Jholman\Jholman\bin\Debug\model.pdb
+F:\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.producto.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.proveedor.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+D:\Jholman\Jholman\bin\Debug\Jholman.exe.config
+D:\Jholman\Jholman\obj\Debug\Jholman.exe
+D:\Jholman\Jholman\obj\Debug\Jholman.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\controller.dll
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\entity.dll
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\model.dll
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\controller.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\entity.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\bin\Debug\model.pdb
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+C:\Users\RUA MONSALVE\Desktop\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\Jholman\Jholman\bin\Debug\IrisSkin2.dll
+E:\Jholman\Jholman\bin\Debug\controller.dll
+E:\Jholman\Jholman\bin\Debug\entity.dll
+E:\Jholman\Jholman\bin\Debug\IrisSkin2.dll
+E:\Jholman\Jholman\bin\Debug\model.dll
+E:\Jholman\Jholman\bin\Debug\controller.pdb
+E:\Jholman\Jholman\bin\Debug\entity.pdb
+E:\Jholman\Jholman\bin\Debug\model.pdb
+E:\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+E:\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\IrisSkin2.dll
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+E:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\bin\Debug\IrisSkin2.dll
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+F:\DANIEL\SENA\TRIMESTRE 5\ASESORIA\JHOLMAN (Programado)\Jholman\Jholman\obj\Debug\Jholman.productoe.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\controller.dll
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\entity.dll
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\model.dll
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\controller.pdb
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\entity.pdb
+F:\sena\modificaciones Diseño\Jholman\Jholman\bin\Debug\model.pdb
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.productoe.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\sena\modificaciones Diseño\Jholman\Jholman\obj\Debug\Jholman.tipo_producto.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.cargos.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.productoe.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.tipo_producto.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.proveedor2.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.proveedor3.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\controller.dll
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\entity.dll
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\model.dll
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\controller.pdb
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\entity.pdb
+F:\sena\modificaciones Diseño\Jholmano\Jholman\Jholman\bin\Debug\model.pdb
+C:\Users\RUA MONSALVE\Desktop\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe.config
+C:\Users\RUA MONSALVE\Desktop\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.exe
+C:\Users\RUA MONSALVE\Desktop\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\controller.dll
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\entity.dll
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\model.dll
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\controller.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\entity.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\bin\Debug\model.pdb
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cargos.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.productoe.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.tipo_producto.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.proveedor.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.insumo.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\Proyecto Jholman (Version ultima)\Jholman\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe.config
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.exe
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\Jholman.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\controller.dll
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\entity.dll
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\model.dll
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\controller.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\entity.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\model.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.csprojResolveAssemblyReference.cache
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cargos.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cliente.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.compra.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.empleado.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.login.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.materia_prima.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.menu.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pedido.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.presentacion.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.produccion.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.productoe.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.productoterminado.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.Properties.Resources.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cotizacion.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.tipo_producto.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.proveedor.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.insumo.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.recuperarcontraseña.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.reportes.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.usuario.resources
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.csproj.GenerateResource.Cache
+E:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\bin\Debug\Jholman.exe.config
+E:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.exe
+E:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.pdb
+F:\PROYECTO\JHOLMAN (Programado)\Jholman\Jholman\Jholman\obj\Debug\Jholman.cotizacion2.resources
